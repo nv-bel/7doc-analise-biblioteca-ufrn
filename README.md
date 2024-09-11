@@ -1,4 +1,4 @@
-Desafio #7DaysOfCode de Análise de dados, da Alura, utilizando Python e Pandas.
+Análise de dados de empréstimos da biblioteca da UFRN. #7DaysOfCode
 
 # Dados de empréstimos dos acervos do sistema de bibliotecas da UFRN.
 
